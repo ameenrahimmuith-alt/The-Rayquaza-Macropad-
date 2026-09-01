@@ -1,3 +1,12 @@
+The Rayquaza Macropad
+This project is based on the original Hackpad by Rishith Chennupati.
+
+I have designed a custom Rayquaza-themed enclosure for the Hackpad while keeping the original PCB, electronics and firmware unchanged.
+
+My contribution: custom Rayquaza enclosure design.
+
+Case files: [link to your case files]
+
 # Hackpad
 
 A 12-key macropad with a rotary encoder and an OLED display, built on a
