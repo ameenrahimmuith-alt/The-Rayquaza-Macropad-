@@ -5,8 +5,14 @@ I have designed a custom Rayquaza-themed enclosure for the Hackpad while keeping
 
 My contribution: custom Rayquaza enclosure design.
 
-Case files: [link to your case files]
+The Custom Rayqauaza comes in at the end, once the macropad has been made, simply drape the rayquaza around the macropad and boom, its done, a visual is shown below
+<img width="1231" height="1763" alt="image" src="https://github.com/user-attachments/assets/8c89bbb0-1a75-4e8c-861a-682a3c11938e" />
 
+
+Case Images : 
+<img width="1235" height="1169" alt="image" src="https://github.com/user-attachments/assets/877ec381-31be-4168-bbd0-5f84e29b64e4" />
+<img width="1919" height="1023" alt="Screenshot 2026-07-05 204053" src="https://github.com/user-attachments/assets/35a6f1b3-36d5-4008-8274-a6491543ce23" />
+This is second one Is from a different project, its just to give you an idea of what itll look like
 # Hackpad
 
 A 12-key macropad with a rotary encoder and an OLED display, built on a
