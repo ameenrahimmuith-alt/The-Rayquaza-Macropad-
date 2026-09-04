@@ -6,6 +6,7 @@ I have designed a custom Rayquaza-themed enclosure for the Hackpad while keeping
 My contribution: custom Rayquaza enclosure design.
 
 The Custom Rayqauaza comes in at the end, once the macropad has been made, simply drape the rayquaza around the macropad and boom, its done, a visual is shown below, the rayquaza model is called 'rayquaza fit for macropad'
+The case link is also on printables here : https://www.printables.com/model/1832974-rayquaza-fit-for-macropad
 <img width="1231" height="1763" alt="image" src="https://github.com/user-attachments/assets/8c89bbb0-1a75-4e8c-861a-682a3c11938e" />
 
 
