@@ -4,7 +4,7 @@ SW1-SW12,MX mechanical switch,MX,12,Hackpad kit (12/16 used),SW_Cherry_MX_1.00u_
 KEYCAP,DSA blank keycap (white),DSA,12,Hackpad kit (12/16 used),n/a,one per switch
 D1-D12,Diode,1N4148 (DO-35),12,Hackpad kit (12/20 used),D_DO-35_SOD27_P7.62mm_Horizontal,COL2ROW; cathode stripe toward row trace
 ENC1,Rotary encoder,Alps EC11 (no push wired),1,Hackpad kit (1/2 used),RotaryEncoder_Alps_EC11E_Vertical_H20mm,A/B phases + C (GND)
-OLED1,OLED display,SSD1306 128x32 (0.91"),1,Hackpad kit,Conn_01x04 (GND-VCC-SCL-SDA),I2C addr 0x3C
+OLED1,OLED display,SSD1306 128x32 (0.91 inch),1,Hackpad kit,Conn_01x04 (GND-VCC-SCL-SDA),I2C addr 0x3C
 LED (optional),Addressable RGB,SK6812 MINI-E,0,Hackpad kit,n/a,not used (all 11 GPIO are consumed)
 MH1-MH4,Mounting hole,M3 clearance,4,n/a,MountingHole_3.2mm_M3,corner hole pattern (+/-42 +/-42)
 SCREW,Socket head screw,M3x16,4,Hackpad kit (4/6 used),n/a,top plate into bottom-tray heatset inserts; STL: production/M3x16_Screw.stl
